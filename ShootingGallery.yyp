@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "5a9d365e-fe9a-4f70-aa31-e4dee0258e93",
+            "Value": {
+                "id": "b2e9a80d-239d-473b-a4b2-dd9788a1bd2f",
+                "resourcePath": "sprites\\sprite_water1\\sprite_water1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6f7b4b77-33f8-4f55-b86b-594a7b9fde6a",
             "Value": {
                 "id": "3a0b1170-2ff8-4d6d-9ed0-8f5498e4c517",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "a1dff97a-1ade-4720-a58a-d122a0cc2e6e",
+            "Value": {
+                "id": "a75e6f67-ed1f-47e3-9b9f-fbb45fa2414f",
+                "resourcePath": "sprites\\sprite_draw\\sprite_draw.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b1a1d82a-22e8-4829-9fdf-62400155474d",
             "Value": {
                 "id": "6675dc36-92bb-4249-af49-ed709b82ec2c",
@@ -171,6 +187,14 @@
             "Value": {
                 "id": "5b527cf1-7d0b-4053-9f66-5fe3c500c5df",
                 "resourcePath": "sprites\\sprite_gameover\\sprite_gameover.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bb22710c-c708-4bae-810b-a6cbeeb4fa86",
+            "Value": {
+                "id": "36a82842-f494-4748-9dda-6566cd176a3d",
+                "resourcePath": "sprites\\sprite_ducktarget_alt\\sprite_ducktarget_alt.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -211,6 +235,14 @@
             "Value": {
                 "id": "a52b8a6f-e158-4104-ace7-f42611673673",
                 "resourcePath": "sprites\\sprite_crosshair\\sprite_crosshair.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dc254105-5ba0-426b-b785-edb31d4d82e5",
+            "Value": {
+                "id": "d165db69-ec48-45e3-937c-253cbb468c09",
+                "resourcePath": "sprites\\sprite_duck_alt\\sprite_duck_alt.yy",
                 "resourceType": "GMSprite"
             }
         },
