@@ -1,28 +1,18 @@
 {
-    "id": "3ead1578-ceed-48e6-9cee-b04ffbe3dd0d",
+    "id": "e8ca0032-678f-40ac-8cbe-f919711e1c46",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object_hole",
+    "name": "object_crosshair",
     "eventList": [
         {
-            "id": "beb139c0-aed6-4f82-aa3d-f50cea701c74",
+            "id": "801e67d1-6c37-416a-b63b-aadc8d1e0148",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "3ead1578-ceed-48e6-9cee-b04ffbe3dd0d"
-        },
-        {
-            "id": "4b66aa3b-d1e6-45e8-a137-6e95e0ece632",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "3ead1578-ceed-48e6-9cee-b04ffbe3dd0d"
+            "eventtype": 3,
+            "m_owner": "e8ca0032-678f-40ac-8cbe-f919711e1c46"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -43,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "f5469584-a7f4-4141-9eca-3f2c9135a1ce",
+    "spriteId": "da7e3c7a-2abc-4d64-8b96-4cdee270ae95",
     "visible": true
 }
