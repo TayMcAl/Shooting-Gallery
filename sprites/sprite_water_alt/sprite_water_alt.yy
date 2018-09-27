@@ -2,7 +2,7 @@
     "id": "5a9d365e-fe9a-4f70-aa31-e4dee0258e93",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite_water1",
+    "name": "sprite_water_alt",
     "For3D": false,
     "HTile": false,
     "VTile": false,
