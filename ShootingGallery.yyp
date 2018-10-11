@@ -103,6 +103,14 @@
             }
         },
         {
+            "Key": "51e46119-3031-4c28-a795-383010f7a978",
+            "Value": {
+                "id": "3a6d1709-a24d-4102-8e46-309e0e6e9770",
+                "resourcePath": "sprites\\sprite_ammo\\sprite_ammo.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "559de4d2-f557-4211-b208-206b1a61b1da",
             "Value": {
                 "id": "51774b2b-b1ab-4411-bbed-4a43535810f0",
