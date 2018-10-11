@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "b2064aa2-f544-4d51-85d4-57507490121c",
+            "Value": {
+                "id": "0db4f801-434b-485e-8231-dddd4a64ea33",
+                "resourcePath": "objects\\object_ammobox\\object_ammobox.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b41028a6-14d7-4ecc-8410-18135ae59475",
             "Value": {
                 "id": "d2a372bb-d4bc-4d0a-b887-8cc42e7e1db6",
