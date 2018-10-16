@@ -17,6 +17,13 @@ score = 0;
 /// @DnDAction : YoYo Games.Instance Variables.Set_Lives
 /// @DnDVersion : 1
 /// @DnDHash : 66006D0C
-/// @DnDArgument : "lives" "9"
+/// @DnDArgument : "lives" "12"
 
-__dnd_lives = real(9);
+__dnd_lives = real(12);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 6A5F50D2
+/// @DnDArgument : "expr" "5"
+/// @DnDArgument : "var" "strike"
+strike = 5;
