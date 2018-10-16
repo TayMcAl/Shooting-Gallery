@@ -3,3 +3,10 @@
 /// @DnDHash : 67166274
 /// @DnDArgument : "steps" "4*30"
 alarm_set(0, 4*30);
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 47C04E0F
+/// @DnDArgument : "speed" "6"
+/// @DnDArgument : "type" "1"
+hspeed = 6;

@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
-/// @DnDHash : 2566A931
+/// @DnDHash : 29245008
 /// @DnDArgument : "xpos" "irandom(724)+100"
 /// @DnDArgument : "ypos" "595"
 /// @DnDArgument : "objectid" "object_duck_target"
